@@ -19,6 +19,6 @@ echo hello > test.txt
 $ echo "Now in a cmdline" > world.txt
 ```
 
-```shell
-$ echo cmdline > test2.txt
+```shell-session
+# echo cmdline > test2.txt
 ```
