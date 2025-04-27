@@ -9,5 +9,5 @@ It covers several topics and also unrelated information.
 
 # Topics
 
-* [[DustWSL\|DustWSL]]
-* [[DustDev\|DustDev]]
+* [[DustWSL/DustWSL\|DustWSL]]
+* [[DustDev/DustDev\|DustDev]]
