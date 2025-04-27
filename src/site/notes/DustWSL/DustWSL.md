@@ -7,7 +7,7 @@
 test = "Hello"
 ```
 
-```bash
+```shell-session
 echo "some bash" > hello.txt
 ```
 
@@ -15,7 +15,7 @@ echo "some bash" > hello.txt
 echo hello > test.txt
 ```
 
-```bash
+```shell-session
 $ echo "Now in a cmdline" > world.txt
 ```
 
