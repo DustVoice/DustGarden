@@ -7,16 +7,18 @@
 test = "Hello"
 ```
 
-```sh
-echo hello > test.txt
-```
-
-```console
-echo hello > test.txt
+```bash
+echo "some bash" > hello.txt
 ```
 
 ```shell
 echo hello > test.txt
 ```
 
-Some tests. Plugin working?
+```bash
+$ echo "Now in a cmdline" > world.txt
+```
+
+```shell
+$ echo cmdline > test2.txt
+```
