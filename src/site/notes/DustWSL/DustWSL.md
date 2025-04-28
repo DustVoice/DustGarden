@@ -1,24 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dust-wsl/dust-wsl/"}
+{"dg-publish":true,"permalink":"/dust-wsl/dust-wsl/","pinned":true}
 ---
 
-```toml title:test.toml
-[Simple test]
-test = "Hello"
-```
 
-```shell-session
-echo "some bash" > hello.txt
-```
+Test for Expressive Code
 
-```shell
-echo hello > test.txt
-```
-
-```shell-session
-$ echo "Now in a cmdline" > world.txt
-```
-
-```shell-session
-# echo cmdline > test2.txt
+```sh
+dustvoice@arch$ echo "Now in a cmdline" > world.txt
 ```
