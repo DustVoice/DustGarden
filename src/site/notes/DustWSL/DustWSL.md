@@ -5,6 +5,7 @@
 
 Test for Expressive Code
 
-```sh
+```sh title:"Test"
 dustvoice@arch$ echo "Now in a cmdline" > world.txt
 ```
+
